@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0bdf4f64-af8c-4585-aa57-6d2ed21045e1",
+    "data": [
+      {
+        "text": "order gift card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bae5256-1c9a-4d93-8c97-bc5e6a881e08",
+    "data": [
+      {
+        "text": "I want to order a gift card with ",
+        "userDefined": false
+      },
+      {
+        "text": "50$",
+        "alias": "card-balance",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " on it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "803e3be7-7c73-4324-8f08-1b8a07138422",
+    "data": [
+      {
+        "text": "I\u0027m looking for a present",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d387c34-91b8-44e2-9a5e-f7d1d623bad5",
+    "data": [
+      {
+        "text": "I want to buy a gift card as a present",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1aca1f31-f95a-4ede-8478-40b1cc467bf4",
+    "data": [
+      {
+        "text": "I want a gift card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b0abe60-b640-4f31-8b6a-dfc9c5eb76da",
+    "data": [
+      {
+        "text": "100 $",
+        "alias": "card-balance",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " gift card please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b161dc3-31bd-4d1f-b4fc-091e36c181dd",
+    "data": [
+      {
+        "text": "I need a present",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07a9f242-d103-4657-b321-921d6ab2476c",
+    "data": [
+      {
+        "text": "let\u0027s buy a gift card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56102da9-f911-42b4-a177-8aefd13b8cfd",
+    "data": [
+      {
+        "text": "deliver",
+        "alias": "delivery-pickup",
+        "meta": "@delivery-pickup",
+        "userDefined": false
+      },
+      {
+        "text": " the gift card to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
