@@ -1,0 +1,502 @@
+[
+  {
+    "id": "cc2dce7a-9268-4a2d-a3fc-5806a78553e4",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "iced",
+        "alias": "iced",
+        "meta": "@iced",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "latte",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7767bab7-9fc1-4f9d-bd53-faea0a957af1",
+    "data": [
+      {
+        "text": "can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "iced",
+        "alias": "iced",
+        "meta": "@iced",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cappuccino",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "low fat",
+        "alias": "milk-type",
+        "meta": "@milk-type",
+        "userDefined": false
+      },
+      {
+        "text": " milk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a133b187-f360-4d6d-9f73-08b7b1a6b14a",
+    "data": [
+      {
+        "text": "can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e08ae846-f6ea-4696-b247-b377c2c9927b",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "cappuccino",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      },
+      {
+        "text": " to go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "134b7fb8-3cc2-432e-a784-58365e4036bd",
+    "data": [
+      {
+        "text": "hot chocolate",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2e3aadd-6566-4ab1-b750-73de8c631093",
+    "data": [
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "macchiato",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a133ed5d-500d-4ff3-aeb8-6a23f589ac3b",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "iced",
+        "alias": "iced",
+        "meta": "@iced",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6832239a-a7bb-4b46-9135-e2495bf172d9",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "delivered",
+        "alias": "delivery-pickup",
+        "meta": "@delivery-pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5e35a1d-9f24-46d4-89bc-ef96b940bc3e",
+    "data": [
+      {
+        "text": "I need a cup of ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ad5a1b9-a9fe-4d6b-8fab-289e2e7a74de",
+    "data": [
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lattes",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f560f9c-9f69-47ce-9ef3-e76cd3dce5d9",
+    "data": [
+      {
+        "text": "some ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98356a3e-a143-44a5-88ed-27acc84c6db4",
+    "data": [
+      {
+        "text": "I\u0027d like to order a drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa72bda6-38bd-4ffc-8d93-2b04037b4f6b",
+    "data": [
+      {
+        "text": "people need ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c5a6897-3d62-411b-9103-9f854d5d0b9b",
+    "data": [
+      {
+        "text": "cappuccino",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4a86ed2-e123-4b5c-9419-f8c0ab1868eb",
+    "data": [
+      {
+        "text": "two",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cappuccinos",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf833c50-f6d3-4c4d-98de-fae8f297ec6a",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to go",
+        "alias": "delivery-pickup",
+        "meta": "@delivery-pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47e4a44c-8765-4f1f-84d4-f1a58c463c15",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6ae90e3-6fc5-47de-9e95-36befe4e9feb",
+    "data": [
+      {
+        "text": "can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "iced",
+        "alias": "iced",
+        "meta": "@iced",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "latte",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "low fat",
+        "alias": "milk-type",
+        "meta": "@milk-type",
+        "userDefined": false
+      },
+      {
+        "text": " milk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfae8844-7ead-4305-a164-014fd4abf467",
+    "data": [
+      {
+        "text": "can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "huge",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " cup of ",
+        "userDefined": false
+      },
+      {
+        "text": "macchiato",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
