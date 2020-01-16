@@ -1,0 +1,102 @@
+[
+  {
+    "id": "0d78fa6d-834f-4e3d-9cff-40af9baa6984",
+    "data": [
+      {
+        "text": "I want to have what I always have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a7dfccc-72d3-4ff8-a0ec-6f1b12e21724",
+    "data": [
+      {
+        "text": "can I have usual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4998769c-201e-4217-89be-8e960d4e5d6d",
+    "data": [
+      {
+        "text": "can I ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "alias": "delivery-pickup",
+        "meta": "@delivery-pickup",
+        "userDefined": false
+      },
+      {
+        "text": " my last order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a36e421f-a31f-4b96-80e1-8cd3c4d02327",
+    "data": [
+      {
+        "text": "I want to order the same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4ad7c59-b5ef-4195-9a07-5f1880dbc7c3",
+    "data": [
+      {
+        "text": "deliver",
+        "alias": "delivery-pickup",
+        "meta": "@delivery-pickup",
+        "userDefined": false
+      },
+      {
+        "text": " me my usual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92ff05b3-ab29-4f81-9568-5639fec1f671",
+    "data": [
+      {
+        "text": "as usual please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b260b360-26bd-4b57-a635-0f02931953d8",
+    "data": [
+      {
+        "text": "repeat my last order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
