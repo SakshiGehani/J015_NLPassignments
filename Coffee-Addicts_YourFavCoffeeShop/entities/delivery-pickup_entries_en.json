@@ -1,0 +1,22 @@
+[
+  {
+    "value": "delivery",
+    "synonyms": [
+      "bring me",
+      "deliver",
+      "delivery",
+      "get me"
+    ]
+  },
+  {
+    "value": "pick-up",
+    "synonyms": [
+      "carry out",
+      "pick up",
+      "pick-up",
+      "pickup",
+      "to go",
+      "to-go"
+    ]
+  }
+]
