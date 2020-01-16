@@ -1,0 +1,9 @@
+{
+  "id": "d8bc3c7d-52d6-4899-9583-ec5561ba8eac",
+  "name": "delivery-address",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
