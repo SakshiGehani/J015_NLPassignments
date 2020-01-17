@@ -1,0 +1,110 @@
+[
+  {
+    "value": "Americano",
+    "synonyms": [
+      "Americano"
+    ]
+  },
+  {
+    "value": "Barista Coffee",
+    "synonyms": [
+      "Barista Coffee"
+    ]
+  },
+  {
+    "value": "Cappuccino",
+    "synonyms": [
+      "Cappuccino"
+    ]
+  },
+  {
+    "value": "Cocoa",
+    "synonyms": [
+      "Cocoa"
+    ]
+  },
+  {
+    "value": "Espresso",
+    "synonyms": [
+      "Espresso"
+    ]
+  },
+  {
+    "value": "Espresso Macchiato",
+    "synonyms": [
+      "Espresso Macchiato"
+    ]
+  },
+  {
+    "value": "Espresso con Panna",
+    "synonyms": [
+      "Espresso con Panna"
+    ]
+  },
+  {
+    "value": "Hot Chocolate",
+    "synonyms": [
+      "Hot Chocolate"
+    ]
+  },
+  {
+    "value": "Latte",
+    "synonyms": [
+      "Latte"
+    ]
+  },
+  {
+    "value": "Macchiato",
+    "synonyms": [
+      "Macchiato"
+    ]
+  },
+  {
+    "value": "coffee",
+    "synonyms": [
+      "coffee"
+    ]
+  },
+  {
+    "value": "Mocha",
+    "synonyms": [
+      "Mocha"
+    ]
+  },
+  {
+    "value": "Mochaccino",
+    "synonyms": [
+      "Mochachino"
+    ]
+  },
+  {
+    "value": "Flat White Espresso",
+    "synonyms": [
+      "Flat White Espresso"
+    ]
+  },
+  {
+    "value": "Irish Coffee",
+    "synonyms": [
+      "Irish Coffee"
+    ]
+  },
+  {
+    "value": "Hazelnut Mocha",
+    "synonyms": [
+      "Hazelnut Mocha"
+    ]
+  },
+  {
+    "value": "Caramel Frappe",
+    "synonyms": [
+      "Caramel Frappe"
+    ]
+  },
+  {
+    "value": "Arabica",
+    "synonyms": [
+      "Arabica"
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+{
+  "id": "29d6940b-d954-4ec6-bd25-6384c551b30f",
+  "name": "order.snack",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.snack",
+      "affectedContexts": [
+        {
+          "name": "ordersnack-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "77bf03b7-18d6-45b3-bb36-6c7b5aee4d16",
+          "required": true,
+          "dataType": "@snack",
+          "name": "snack",
+          "value": "$snack",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What would you like to eat?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6805b6eb-e038-4735-a74e-79fb39127159",
+          "required": false,
+          "dataType": "@size",
+          "name": "size",
+          "value": "$size",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What size? I can arrange small, medium or large."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "677e535f-e496-4350-b176-d7e9b82ab2dd",
+          "required": false,
+          "dataType": "@topping",
+          "name": "topping",
+          "value": "$topping",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "*Here we check what flavours are available for the mentioned snack with webbhook.* Any topping"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "26311d9d-60cc-4623-8d58-649e150b38ea",
+          "required": false,
+          "dataType": "@flavor",
+          "name": "flavor",
+          "value": "$flavor",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7d38ba20-c876-40ec-be9c-46a4f5a69a99",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a57719ff-f62b-478c-b2ef-5c25e52493f9",
+          "required": false,
+          "dataType": "@delivery-pickup",
+          "name": "delivery-pickup",
+          "value": "$delivery-pickup",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Your order is: $size $snack with $topping and you want a $delivery-pickup. Is that right?",
+            "Your order is: $size $snack with $flavor and you want a $delivery-pickup. Is that right?",
+            "You\u0027ve ordered $size $snack with $topping and you want a $delivery-pickup. Correct?",
+            "You\u0027ve ordered $size $snack with $flavor and you want a $delivery-pickup. Correct?",
+            "You\u0027ve ordered $size $snack and you want a $delivery-pickup. Correct?",
+            "You\u0027ve ordered $snack and you want a $delivery-pickup. Correct?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

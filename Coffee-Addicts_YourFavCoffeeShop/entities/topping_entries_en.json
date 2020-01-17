@@ -1,0 +1,57 @@
+[
+  {
+    "value": "caramel",
+    "synonyms": [
+      "caramel"
+    ]
+  },
+  {
+    "value": "chocolate",
+    "synonyms": [
+      "chocolate",
+      "chocolate drizzle",
+      "chocolate syrup"
+    ]
+  },
+  {
+    "value": "cinnamon",
+    "synonyms": [
+      "cinnamon"
+    ]
+  },
+  {
+    "value": "whipped cream",
+    "synonyms": [
+      "whip",
+      "whipped cream"
+    ]
+  },
+  {
+    "value": "Icing Sugar",
+    "synonyms": [
+      "Icing Sugar",
+      "Powdered sugar"
+    ]
+  },
+  {
+    "value": "Caramel Tuile",
+    "synonyms": [
+      "Caramel Tuile",
+      "Tuile",
+      "Sugar mesh"
+    ]
+  },
+  {
+    "value": "chocolate wafer",
+    "synonyms": [
+      "chocolate wafer",
+      "wafer biscuit"
+    ]
+  },
+  {
+    "value": "chocolate roll",
+    "synonyms": [
+      "chocolate roll"
+    ]
+  }
+]

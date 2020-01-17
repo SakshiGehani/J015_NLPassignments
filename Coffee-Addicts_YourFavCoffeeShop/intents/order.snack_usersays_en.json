@@ -1,0 +1,412 @@
+[
+  {
+    "id": "e1184351-262b-4a0f-90fe-a760e8684a3f",
+    "data": [
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bagels",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a0230c6-724f-449e-a4ed-da008e09d630",
+    "data": [
+      {
+        "text": "salad",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd017b79-7eea-4a0d-870f-975c6ba9e1f0",
+    "data": [
+      {
+        "text": "strudel",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "alias": "flavor",
+        "meta": "@flavor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f329e36b-e428-474f-8d19-70dbbdf573ad",
+    "data": [
+      {
+        "text": "get me a dessert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f3c44b1-7da1-4068-a69b-f1480ad020d7",
+    "data": [
+      {
+        "text": "bring me",
+        "alias": "delivery-pickup",
+        "meta": "@delivery-pickup",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "bagel",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f48b043-8d07-4695-8203-c58e6c28a719",
+    "data": [
+      {
+        "text": "something to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bc8b1ebf-0da6-4309-a0b2-74262981abb8",
+    "data": [
+      {
+        "text": "strawberry",
+        "alias": "flavor",
+        "meta": "@flavor",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cupcake",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85f0af6d-8dd5-4e9a-bc30-005415fa6322",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "croissants",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b8ca747e-be24-47a4-b235-a560de24de7a",
+    "data": [
+      {
+        "text": "I\u0027m hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95f70ee7-c4f5-42c5-b1ab-ef55c2d0c624",
+    "data": [
+      {
+        "text": "I\u0027d love to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "danish",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "almond paste",
+        "alias": "flavor",
+        "meta": "@flavor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "169939ca-7edb-42b2-a57c-dc476db0227d",
+    "data": [
+      {
+        "text": "how about a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bagel",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7e65e06-2a6a-4883-ad14-ee797adc65d9",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "muffin",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24344f82-f49e-4279-afae-8127c2b8742f",
+    "data": [
+      {
+        "text": "I\u0027d love to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "bagel",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "cream cheese",
+        "alias": "flavor",
+        "meta": "@flavor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5eee5cd7-ca99-4957-8f76-b1c8501312da",
+    "data": [
+      {
+        "text": "can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "doughnuts",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "216dab25-5bbb-437a-9cdd-0b7481832be5",
+    "data": [
+      {
+        "text": "bagel",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bac371f-77b0-4fb5-a399-0fa3e7f10ddf",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "huge",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chocolate",
+        "alias": "topping",
+        "meta": "@topping",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "doughnuts",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb257e58-a2ab-41ea-9929-f4f8e6691180",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "huge",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chocolate",
+        "alias": "topping",
+        "meta": "@topping",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "doughnut",
+        "alias": "snack",
+        "meta": "@snack",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

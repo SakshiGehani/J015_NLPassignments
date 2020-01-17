@@ -1,0 +1,91 @@
+{
+  "id": "a82d96aa-474e-450c-b847-9bbb47bf7ab3",
+  "name": "order.gift_card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.gift_card",
+      "affectedContexts": [
+        {
+          "name": "ordergift_card-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f74b137f-5fd0-4a5b-aa15-e69c819446d2",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "name": "card-balance",
+          "value": "$card-balance",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Gift card is an excellent present! How much money should we put on the card?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "20c345b7-4224-43de-af06-1d79b04b211e",
+          "required": true,
+          "dataType": "@delivery-pickup",
+          "name": "delivery-pickup",
+          "value": "$delivery-pickup",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want your gift card to be delivered or you want to pick it up yourself?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Will you use the same card?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
